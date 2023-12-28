@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Desktop\TekYonluDogrusalListe\TekYonluDogrusalListe\bin\Debug\TekYonluDogrusalListe.exe.config
+C:\Users\LENOVO\Desktop\TekYonluDogrusalListe\TekYonluDogrusalListe\bin\Debug\TekYonluDogrusalListe.exe
+C:\Users\LENOVO\Desktop\TekYonluDogrusalListe\TekYonluDogrusalListe\bin\Debug\TekYonluDogrusalListe.pdb
+C:\Users\LENOVO\Desktop\TekYonluDogrusalListe\TekYonluDogrusalListe\obj\Debug\TekYonluDogrusalListe.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\TekYonluDogrusalListe\TekYonluDogrusalListe\obj\Debug\TekYonluDogrusalListe.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\TekYonluDogrusalListe\TekYonluDogrusalListe\obj\Debug\TekYonluDogrusalListe.exe
+C:\Users\LENOVO\Desktop\TekYonluDogrusalListe\TekYonluDogrusalListe\obj\Debug\TekYonluDogrusalListe.pdb
